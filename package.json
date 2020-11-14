@@ -1,0 +1,19 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "landing",
+    "page"
+  ],
+  "author": "Charlie Porth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
