@@ -1,13 +1,15 @@
 # Landing Page Project
 
-## Table of Contents
+## About
 
-* [Instructions](#instructions)
+This is just a simple HTML, Javascript and CSS landing page demo site for single page websites with scrollable sections 
 
-## Instructions
+----
+Feel free to fork, add, and create issues on to this simple starter project.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+----
 
-To get started, open `js/app.js` and start building out the app's functionality
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+* Contact the [project owner and maintain](https://github.com/charlieporth1) if you have any questions
+
+* This project is under the [GNU License](https://www.gnu.org/licenses/gpl-3.0.en.html)
